@@ -1,0 +1,11 @@
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe.config
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.SuggestedBindingRedirects.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.Properties.Resources.resources
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.GenerateResource.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.Jokenpo.resources
